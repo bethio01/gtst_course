@@ -1,2 +1,2 @@
-## This is note written while taking the geez Tech Security Tester course.
+## This is note written while taking the geez Tech Security Teste® course.
 
